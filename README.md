@@ -21,8 +21,8 @@
   </a>
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tahirzaman823&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tahirzamansoomro&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Cleaning, transforming, and structuring raw data using ETL-style pipelines to ma
 ### 🌐 Web Development
 Designing and building full-stack applications — from database logic to **AI-integrated** user interfaces.
 
-`HTML5` `CSS3` `JavaScript`
+`HTML5` `CSS3` `JavaScript` `PHP` `MySQL`
 
 </td>
 </tr>
@@ -91,28 +91,28 @@ Designing and building full-stack applications — from database logic to **AI-i
 <td><b>🎓 Student Performance — Data Analysis</b></td>
 <td>Cleaned and modeled student performance data to predict outcomes in secondary education.</td>
 <td>Python • Pandas • Jupyter</td>
-<td><a href="https://github.com/tahirzaman823/Student-Performance-Data-Analysis">Repository</a></td>
+<td><a href="https://github.com/tahirzamansoomro/Student-Performance-Data-Analysis">Repository</a></td>
 </tr>
 
 <tr>
 <td><b>📝 Aratoz-Todo</b></td>
 <td>A modern task management dashboard for tracking daily productivity and project goals.</td>
 <td>JavaScript • CSS • LocalStorage</td>
-<td><a href="https://github.com/tahirzaman823">Repository</a></td>
+<td><a href="https://github.com/tahirzamansoomro">Repository</a></td>
 </tr>
 
 <tr>
 <td><b>🏥 Doctor Appointment Booking</b></td>
 <td>Web application streamlining medical appointment scheduling and patient record management.</td>
 <td>PHP • MySQL • JavaScript</td>
-<td><a href="https://github.com/tahirzaman823">Repository</a></td>
+<td><a href="https://github.com/tahirzamansoomro">Repository</a></td>
 </tr>
 
 <tr>
 <td><b>🌐 Portfolio Website</b></td>
 <td>Responsive personal portfolio with custom UI styling and modern CSS aesthetics.</td>
 <td>HTML • CSS • JavaScript</td>
-<td><a href="https://github.com/tahirzaman823">Repository</a> • <a href="https://my-portfolio-gules-phi-87.vercel.app/">Live</a></td>
+<td><a href="https://github.com/tahirzamansoomro">Repository</a> • <a href="https://my-portfolio-gules-phi-87.vercel.app/">Live</a></td>
 </tr>
 
 </table>
@@ -122,12 +122,12 @@ Designing and building full-stack applications — from database logic to **AI-i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirzaman823&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman823&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahirzamansoomro&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzamansoomro&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tahirzaman823&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=tahirzamansoomro&theme=default&hide_border=true" height="150" />
 </p>
 
 ---
@@ -143,7 +143,7 @@ Designing and building full-stack applications — from database logic to **AI-i
 </p>
 
 <p align="left">
-  <a href="https://github.com/tahirzaman823">
-    <img src="https://img.shields.io/badge/GitHub-@tahirzaman823-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/tahirzamansoomro">
+    <img src="https://img.shields.io/badge/GitHub-@tahirzamansoomro-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
