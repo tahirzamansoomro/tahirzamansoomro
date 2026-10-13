@@ -20,8 +20,11 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
+<p align="right">
+  <img src="https://img.shields.io/github/followers/tahirzamansoomro?label=Followers&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/tahirzamansoomro?label=Stars&style=for-the-badge&color=yellow" />
+</p>
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=tahirzamansoomro&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -121,15 +124,17 @@ Designing and building full-stack applications — from database logic to **AI-i
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tahirzamansoomro&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=tahirzamansoomro&theme=default&hide_border=true" height="150" />  
+ 
+</p>
+
+<p align="center">
+    
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahirzamansoomro&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzamansoomro&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tahirzamansoomro&theme=default&hide_border=true" height="150" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
