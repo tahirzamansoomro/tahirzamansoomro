@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/github/followers/tahirzamansoomro?label=Followers&style=for-the-badge&color=0e75b6" />
   <img src="https://img.shields.io/github/stars/tahirzamansoomro?label=Stars&style=for-the-badge&color=yellow" />
 </p>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=tahirzamansoomro&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
