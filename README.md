@@ -130,7 +130,7 @@ Designing and building full-stack applications — from database logic to **AI-i
  
 </p>
 
-<p align="center">
+<p align="left">
     
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahirzamansoomro&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzamansoomro&layout=compact&theme=default&hide_border=true" height="165" />
