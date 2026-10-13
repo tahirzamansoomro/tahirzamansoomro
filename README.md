@@ -125,15 +125,12 @@ Designing and building full-stack applications — from database logic to **AI-i
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirzamansoomro&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
   <img src="https://streak-stats.demolab.com/?user=tahirzamansoomro&theme=default&hide_border=true" height="150" />  
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzamansoomro&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
 
 <p align="left">
-    
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahirzamansoomro&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzamansoomro&layout=compact&theme=default&hide_border=true" height="165" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahirzamansoomro&theme=default" />
 </p>
 ---
 
