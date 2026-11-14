@@ -1,5 +1,5 @@
 <h1>
-  Hi, I'm <a href="https://tahir-zaman-web-portfolio.vercel.app/" target="_blank">Tahir Zaman</a> 👋
+  Hi, I'm <a href="https://personal-portfolio-flax-omega-44.vercel.app/" target="_blank">Tahir Zaman</a> 👋
 </h1>
 
 <h3>
