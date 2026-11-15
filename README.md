@@ -7,7 +7,7 @@
 </h3>
 
 <p>
-  <a href="https://tahir-zaman-web-portfolio.vercel.app/" target="_blank">
+  <a href="https://personal-portfolio-flax-omega-44.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tahirzamansoomro/" target="_blank">
